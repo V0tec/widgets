@@ -1,0 +1,11 @@
+.widget {
+  &__title {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  &__time {
+    font-size: 1.25rem;
+    font-weight: 500;
+  }
+}
